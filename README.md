@@ -27,5 +27,5 @@ public Object add(Object a,Object b) {
 
 ```
 
-
-The language was created following <a href="https://craftinginterpreters.com">this</a> book.
+###Credits
+Craftinginterpreters as a reference book
