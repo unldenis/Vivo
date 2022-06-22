@@ -1,9 +1,7 @@
 # Vivo
 
 Vivo is the embryo of a dynamically typed programming language. The following compiler converts the source code into Java code.
-
 'Vivo' in Italian meaning alive, the idea is reflected in the use of the word 'morto' as a type without value, often called 'null' in other languages.
-
 In <a href="https://github.com/unldenis/Vivo/blob/master/src/main/resources/test.vivo">this</a> simple example, the following code is compiled and translated as follows:
 ```java
 Object i = Math.sqrt((double)25.0);
