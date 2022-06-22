@@ -1,0 +1,10 @@
+var i = sqrt(25);
+
+fun onEnable() {
+    loop 5 times
+        print i;
+}
+
+fun add(a, b) {
+  return a + b;
+}
